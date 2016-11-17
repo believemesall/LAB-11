@@ -14,11 +14,16 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
 </p>
 
+![](https://github.com/believemesall/LAB-11/blob/master/imgs/Capture1.JPG)
+
+
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
  <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
 </p>
+
+![](https://github.com/believemesall/LAB-11/blob/master/imgs/Capture2.JPG)
 
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
@@ -26,6 +31,8 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
+
+![](https://github.com/believemesall/LAB-11/blob/master/imgs/Capture7.JPG)
 
 ### การระบายสีด้วย TextureBrush
 * ให้วางคอนโทรล Panel จำนวน 2 ตัวลงบน Form โดยมีชื่อว่า panel1 และ panel2 ตามลำดับ
@@ -38,10 +45,14 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-5.png">
 </p> 
 
+![](https://github.com/believemesall/LAB-11/blob/master/imgs/Capture3.JPG)
+
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen2_Paint(object sender, PaintEventArgs e)```
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
+
+![](https://github.com/believemesall/LAB-11/blob/master/imgs/Capture4.JPG)
 
 ### การระบายสีด้วย Path Gradient Brush
 
@@ -58,9 +69,12 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
 
+![](https://github.com/believemesall/LAB-11/blob/master/imgs/Capture5.JPG)
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+
+![](https://github.com/believemesall/LAB-11/blob/master/imgs/Capture6.JPG)
